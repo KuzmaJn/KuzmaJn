@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋, I'm Jan
 
-<!--
-**KuzmaJn/KuzmaJn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a student at Slovak University of Technology with a passion for learning. Although I don't have many projects yet, I'm always eager to learn more and take on new challenges.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Java, Python, C++, C, MatLab
+- **Tools:** Git, VScode, JetBrains' IDEs
+- **Other Skills:** Database knowledge, OOP, Unit testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+Check out my projects [here](https://github.com/KuzmaJn?tab=repositories).
+
+## 📫 How to Reach Me
+- **Email:** jankuzma@outlook.sk
+- **LinkedIn:** [Click here](https://www.linkedin.com/in/j%C3%A1n-ku%C5%BEma/)
+  
+---
+
+*Feel free to explore my repositories and get in touch if you'd like to collaborate on any project!*
