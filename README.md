@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jan
 
 ## About Me
-I'm a student at Slovak University of Technology with a passion for learning. Although I don't have many projects yet, I'm always eager to learn more and take on new challenges.
+I'm a student with a passion for programming. Although I don't have many projects yet, I'm always eager to learn more and take on new challenges.
 
 ## 🛠️ Skills
 - **Languages:** Java, Python, C++, C, MatLab
