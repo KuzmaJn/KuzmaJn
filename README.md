@@ -13,7 +13,7 @@ Check out my projects [here](https://github.com/KuzmaJn?tab=repositories).
 
 ## 📫 How to Reach Me
 - **Email:** jankuzma@outlook.sk
-- **LinkedIn:** [Click here](https://www.linkedin.com/in/j%C3%A1n-ku%C5%BEma/)
+- **LinkedIn:** [here](https://www.linkedin.com/in/j%C3%A1n-ku%C5%BEma/)
   
 ---
 
